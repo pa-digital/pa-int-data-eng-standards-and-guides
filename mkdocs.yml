@@ -1,0 +1,20 @@
+site_name: Data Platform Guide
+
+nav:
+  - Getting Started:
+      - Onboarding: docs/getting-started/onboarding.md
+      - Developer Setup: docs/getting-started/developer-setup.md
+      - First Pipeline: docs/getting-started/first-pipeline.md
+
+  - Standards:
+      - Data Modelling: docs/standards/data-modelling/README.md
+      - Testing: docs/standards/testing/README.md
+      - Security: docs/standards/security/README.md
+      - Governance: docs/standards/governance/README.md
+      - Quality: docs/standards/quality/README.md
+
+  - Reference:
+      - Naming: docs/reference/naming-conventions.md
+      - Architecture: docs/reference/architecture-principles.md
+      - Data Contracts: docs/reference/data-contracts.md
+      - Glossary: docs/reference/glossary.md
