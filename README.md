@@ -17,6 +17,7 @@ Use this repository as a **single source of truth** for how data products, pipel
 ---
 
 ## Repository Structure
+```
 ├── Docs/ 
 │           │ 
 │      ├── Getting-started/ 
@@ -52,7 +53,7 @@ Use this repository as a **single source of truth** for how data products, pipel
       └── Schema # Data schema definition template
 
 — 
-
+```
 ## How to use this repository 
 
 ### 1. Getting started 
